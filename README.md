@@ -1,6 +1,3 @@
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rajneeshpatel98k&show_icons=true&theme=default)
 # 💫 About Me:
 🎓 B.Tech CS Student | Shri Ram Institute of Technology, Jabalpur<br>🔭 I build things independently like AI tools, Python scripts, and web apps<br>📍 Madhya Pradesh, India
 
