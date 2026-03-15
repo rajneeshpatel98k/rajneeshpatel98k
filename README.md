@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech CS Student | Shri Ram Institute of Technology, Jabalpur<br>🔭 I build things independently like AI tools, Python scripts, and web apps<br>📍 Madhya Pradesh, India
+🎓 B.Tech CS Undergrad | Shri Ram Institute of Technology, Jabalpur<br>🔭 I build things independently like AI tools, Python scripts, and web apps<br>📍 Madhya Pradesh, India
 
 
 ## 🌐 Socials:
